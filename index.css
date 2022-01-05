@@ -7,7 +7,7 @@
 body {
     display: flex;
     justify-content: center;
-    background-image: url(/imagens/background.png);
+    background-image: url(imagens/background.png);
     background-repeat: no-repeat, repeat;
 }
 .home {
